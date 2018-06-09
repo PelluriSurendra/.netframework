@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<registration>
+  <register>
+    <firstname>mahesh</firstname>
+    <lastname>manjrekar</lastname>
+    <email>a@a.com</email>
+    <password>123456</password>
+    <confirmpassword>123456</confirmpassword>
+  </register>
+
+  <register>
+    <firstname>abcdef</firstname>
+    <lastname>abcdef</lastname>
+    <email>a.a@a.com</email>
+    <password>123456</password>
+    <confirmpassword>123456</confirmpassword>
+  </register>
+</registration>

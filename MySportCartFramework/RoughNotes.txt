@@ -1,0 +1,27 @@
+﻿// What a test base class should have?
+/* 1. Parent class for all test classes
+ * 2. Necessary setup for all test classes
+ *      a. Starting the Logger
+ *      b. Setting Report object
+ *      c. Launching the right browser
+ *      d. Maximizing the screen or setting screen width to the mobile screen
+ *      e. Capture image on exception
+ *      f. Set up for data driven testing (TestContext)
+ *      g. Dispose all used resources
+ *      h. Setup and cleanup methods
+ * /
+
+ https://dev.mysportcart.com   // Dev environment
+ https://test.mysportcart.com  // Test environment
+ https://uat.mysportcart.com   // User acceptance testing environment
+ https://mysportcart.com v10   // 
+ https://staging.mysportcart.com  v9
+
+
+Test Attributes
+// AssemblyInitialize
+// AssemblyCleanUp
+// ClassInitialize
+// ClassCleanUp
+// TestInitialize
+// TestCleanUp

@@ -1,0 +1,5 @@
+﻿firstName, lastName, email, password, confirmPassword
+a,b,a@a.com,123456,123456
+abcdef,b,a_a@a.com,abcdef,abcdef
+a,abcdef,a1@a.com,123abc,123abc
+a1a,a1a,a.a@a.com,abc456,abc456
